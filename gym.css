@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+#gymheader{
+    margin: 0;
+    background-color: black;
+    color:aliceblue;
+    text-align: center;
+}
+#main{
+    display:flex;
+}
+#fdiv{
+    width: 30%;
+    height: 570px;
+    background-color: #bbb;
+    padding: 30px;
+
+}
+#ffdiv{
+    background-color: bisque;
+}
+.boxes{
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #ddd;
+}
